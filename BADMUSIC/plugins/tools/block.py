@@ -15,13 +15,13 @@ app.on_message(
     & filters.group)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/403d1431dd35d74d6fcad.jpg",
+        photo=f"https://graph.org/file/ad98227d45e81687c3934.jpg",
         caption=f"""🥀 𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞 𝐅𝐨𝐫 𝐃𝐨𝐧𝐚𝐭𝐞 🥀""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🎁 𝐃ᴏɴᴀᴛᴇ 🎁", url=f"https://t.me/II_BAD_MUNDA_II")
+                        "🎁 𝐃ᴏɴᴀᴛᴇ 🎁", url=f"https://t.me/The_Coder_Network")
                 ]
             ]
         ),
@@ -32,13 +32,13 @@ async def help(client: Client, message: Message):
     & filters.group)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/403d1431dd35d74d6fcad.jpg",
+        photo=f"https://graph.org/file/ad98227d45e81687c3934.jpg",
         caption=f"""🥀 𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞 𝐅𝐨𝐫 𝐃𝐨𝐧𝐚𝐭𝐞 🥀""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🎁 𝐃ᴏɴᴀᴛᴇ 🎁", url=f"https://t.me/II_BAD_MUNDA_II")
+                        "🎁 𝐃ᴏɴᴀᴛᴇ 🎁", url=f"https://t.me/The_Coder_Network")
                 ]
             ]
         ),
@@ -49,13 +49,13 @@ async def help(client: Client, message: Message):
     & filters.private)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/403d1431dd35d74d6fcad.jpg",
+        photo=f"https://graph.org/file/ad98227d45e81687c3934.jpg",
         caption=f"""🥀 𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞 𝐅𝐨𝐫 𝐃𝐨𝐧𝐚𝐭𝐞 🥀""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🎁 𝐃ᴏɴᴀᴛᴇ 🎁", url=f"https://t.me/II_BAD_MUNDA_II")
+                        "🎁 𝐃ᴏɴᴀᴛᴇ 🎁", url=f"https://t.me/The_Coder_Network")
                 ]
             ]
         ),
