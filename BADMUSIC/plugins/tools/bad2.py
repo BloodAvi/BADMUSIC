@@ -58,7 +58,7 @@ async def help(client: Client, message: Message):
                 ],
                  [
                     InlineKeyboardButton(
-                        "🗡️ 𝐑ᴇᴘᴏ 🗡️", url=f"https://graph.org/file/ad98227d45e81687c3934.jpg)
+                        "🗡️ 𝐑ᴇᴘᴏ 🗡️", url=f"https://graph.org/file/ad98227d45e81687c3934.jpg")
                 ],
                  [
                     InlineKeyboardButton(
