@@ -15,25 +15,25 @@ app.on_message(
     & filters.group)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/712e28b6207db1448ac88.jpg",
+        photo=f"https://graph.org/file/ad98227d45e81687c3934.jpg",
         caption=f"""🦋 𝐂ʟɪᴄᴋ 𝐁ᴇʟᴏᴡ 𝐁ᴜᴛᴛᴏɴ 𝐓ᴏ 𝐆ᴇᴛ 𝐑ᴇᴘᴏ ❤️""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🗡️ 𝐌ᴜsɪᴄ  𝐑ᴇᴘᴏ 🗡️", url=f"https://github.com/MXNIHACKER/BrokenMusic/fork")
+                        "🗡️ 𝐑ᴇᴘᴏ 🗡️", url=f"https://graph.org/file/ad98227d45e81687c3934.jpg")
                 ],
                 [
                     InlineKeyboardButton(
-                        "🗡️ 𝐏ʙx ᴜ  𝐑ᴇᴘᴏ  🗡️", url=f"https://github.com/MXNIHACKER/DevilXUser/fork")
+                        "🗡️ 𝐑ᴇᴘᴏ  🗡️", url=f"https://graph.org/file/ad98227d45e81687c3934.jpg")
                 ],
                  [
                     InlineKeyboardButton(
-                        "🗡️ 𝐏ʙx 2.0 ᴜ 𝐑ᴇᴘᴏ 🗡️", url=f"https://github.com/Badhacker98/PBX_2.0/fork")
+                        "🗡️ 𝐑ᴇᴘᴏ 🗡️", url=f"https://graph.org/file/ad98227d45e81687c3934.jpg")
                 ],
                  [
                     InlineKeyboardButton(
-                        "🗡️ 𝐒ᴘᴀᴍ  𝐑ᴇᴘᴏ 🗡️", url=f"https://github.com/Badhacker98/BAD_SPAM_X/fork")
+                        "🗡️ 𝐑ᴇᴘᴏ 🗡️", url=f"https://graph.org/file/ad98227d45e81687c3934.jpg")
                  ]
             ]
         ),
@@ -44,25 +44,25 @@ async def help(client: Client, message: Message):
     & filters.group)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/712e28b6207db1448ac88.jpg",
+        photo=f"https://graph.org/file/ad98227d45e81687c3934.jpg",
         caption=f"""🦋 𝐂ʟɪᴄᴋ 𝐁ᴇʟᴏᴡ 𝐁ᴜᴛᴛᴏɴ 𝐓ᴏ 𝐆ᴇᴛ 𝐑ᴇᴘᴏ ❤️""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🗡️ 𝐌ᴜsɪᴄ  𝐑ᴇᴘᴏ 🗡️", url=f"https://github.com/MXNIHACKER/BrokenMusic/fork")
+                        "🗡️ 𝐑ᴇᴘᴏ 🗡️", url=f"https://graph.org/file/ad98227d45e81687c3934.jpg")
                 ],
                 [
                     InlineKeyboardButton(
-                        "🗡️ 𝐏ʙx ᴜ  𝐑ᴇᴘᴏ  🗡️", url=f"https://github.com/MXNIHACKER/DevilXUser/fork")
+                        "🗡️ 𝐑ᴇᴘᴏ  🗡️", url=f"https://graph.org/file/ad98227d45e81687c3934.jpg")
                 ],
                  [
                     InlineKeyboardButton(
-                        "🗡️ 𝐏ʙx 2.0 ᴜ 𝐑ᴇᴘᴏ 🗡️", url=f"https://github.com/Badhacker98/PBX_2.0/fork")
+                        "🗡️ 𝐑ᴇᴘᴏ 🗡️", url=f"https://graph.org/file/ad98227d45e81687c3934.jpg)
                 ],
                  [
                     InlineKeyboardButton(
-                        "🗡️ 𝐒ᴘᴀᴍ  𝐑ᴇᴘᴏ 🗡️", url=f"https://github.com/Badhacker98/BAD_SPAM_X/fork")
+                        "🗡️ 𝐑ᴇᴘᴏ 🗡️", url=f"https://graph.org/file/ad98227d45e81687c3934.jpg")
                  ]
             ]
         ),
@@ -73,25 +73,25 @@ async def help(client: Client, message: Message):
     & filters.private)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/712e28b6207db1448ac88.jpg",
+        photo=f"https://graph.org/file/ad98227d45e81687c3934.jpg",
         caption=f"""🦋 𝐂ʟɪᴄᴋ 𝐁ᴇʟᴏᴡ 𝐁ᴜᴛᴛᴏɴ 𝐓ᴏ 𝐆ᴇᴛ 𝐑ᴇᴘᴏ ❤️""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🗡️ 𝐌ᴜsɪᴄ  𝐑ᴇᴘᴏ 🗡️", url=f"https://github.com/MXNIHACKER/BrokenMusic/fork")
+                        "🗡️ 𝐑ᴇᴘᴏ 🗡️", url=f"https://graph.org/file/ad98227d45e81687c3934.jpg")
                 ],
                 [
                     InlineKeyboardButton(
-                        "🗡️ 𝐏ʙx ᴜ  𝐑ᴇᴘᴏ  🗡️", url=f"https://github.com/MXNIHACKER/DevilXUser/fork")
+                        "🗡️ 𝐑ᴇᴘᴏ  🗡️", url=f"https://graph.org/file/ad98227d45e81687c3934.jpg")
                 ],
                  [
                     InlineKeyboardButton(
-                        "🗡️ 𝐏ʙx 2.0 ᴜ 𝐑ᴇᴘᴏ 🗡️", url=f"https://github.com/Badhacker98/PBX_2.0/fork")
+                        "🗡️ 𝐑ᴇᴘᴏ 🗡️", url=f"https://graph.org/file/ad98227d45e81687c3934.jpg")
                 ],
                  [
                     InlineKeyboardButton(
-                        "🗡️ 𝐒ᴘᴀᴍ  𝐑ᴇᴘᴏ 🗡️", url=f"https://github.com/Badhacker98/BAD_SPAM_X/fork")
+                        "🗡️ 𝐑ᴇᴘᴏ 🗡️", url=f"https://graph.org/file/ad98227d45e81687c3934.jpg")
                  ]
             ]
         ),
